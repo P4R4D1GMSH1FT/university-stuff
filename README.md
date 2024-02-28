@@ -1,2 +1,2 @@
 # university-stuff
-some tech things I have done for uni purposes
+some tech and non-tech (e.g. notes) things I have done for uni purposes
