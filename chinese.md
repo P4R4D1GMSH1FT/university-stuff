@@ -1,0 +1,35 @@
+### unit 1, topic 1
+1. 水 shuǐ - water
+2. 咖啡 kāfēi - coffee
+3. 和 hé - and
+4. 茶 chá - tea
+5. 米 mǐ - rice
+6. 饭 fàn - meal
+7. 这 zhè - this
+8. 是 shì - is
+9. 汤 tāng - soup
+10. 冰 bīng - ice
+11. 色 sè - colour
+12. 文 wén - language， culture （paired with 化 huà）
+13. 你 nǐ - you
+14. 粥 zhōu - porridge
+15. 豆腐 dòufu - tofu
+16. 热 rè - hot
+17. 三 sān - three
+18. 的 de - particle
+19. 英 yīng - British
+20. 菜 cài - food
+21. 国 guó - country
+22. 美 měi - beautiful
+23. 中 zhōng - center （China）
+24. 人 rén - people
+25. 我 wǒ - I
+26. 爷 yé - grandfather
+27. 姨 yí - aunt
+28. 好 hǎo - good
+29. 们 men - plurality
+30. 家 jiā - home
+31. 要 yào - want
+32. 叔 shū - uncle
+33. 父 fù - father
+34. 母 mǔ - mother
