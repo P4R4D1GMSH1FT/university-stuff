@@ -94,3 +94,28 @@ Heller provides explanations of temporal parts, suggesting that they are analogo
 For a four-dimensionalist (perdurantist), an object exists now if it has a temporal part that is present at the current moment. There can be distinct objects that coincide spatiotemporally, as they may have different temporal parts. A three-dimensionalist (endurantist) who wants to accept temporal parts would be committed to distinct objects that coincide, as temporal parts would imply multiple objects existing at the same time.
 #### 9. Avoiding the Problem with the Amputation Case
 The four-dimensionalist (perdurantist) avoids the problem with the amputation case by accepting that an object can have different temporal parts in different possible worlds. This allows them to avoid committing to any of the unpleasant alternatives (a) – (e) presented in the case and thus sidestep the dilemma.
+
+## Chapter 5 "Personal Identity" from "An Introduction to Metaphysics" by Carroll and Markosian
+
+#### 1. Characterizing the Problem of Personal Identity:
+   - **Identity over Time:** Concerned with what it means for an individual to persist through time and change.
+   - **The Problem of Time:** Focuses on the relation between personal identity and the passage of time.
+   - **The Problem of Unity:** Addresses how various mental and physical states are unified to form a single person.
+   - **The Problem of Self-Awareness:** Explores the relationship between self-awareness and personal identity.
+   - **The Problem of Change:** Considers how personal identity is affected by changes in psychological or physical characteristics.
+
+#### 2. Approaches to Personal Identity:
+   - **Physical Approach:** Defines personal identity in terms of bodily continuity and physical characteristics.
+   - **Soulful Approach:** Defines personal identity in terms of the continuity of an immaterial soul or consciousness.
+   - **Psychological Approach:** Defines personal identity in terms of psychological continuity, such as memory, consciousness, and personality traits.
+   - **Biological Approach:** Defines personal identity in terms of biological continuity, such as genetic makeup and bodily functions.
+
+#### 3. Criticism of Approaches to Personal Identity:
+   - Science-fiction examples like transporter cases and brain swapping scenarios serve as useful thought experiments to challenge and explore the implications of different theories of personal identity.
+   - While these examples may seem far-fetched, they help illuminate philosophical issues surrounding personal identity and raise important questions about what it means to persist through various changes and transformations.
+   - Conclusions drawn from such imaginary cases can shed light on the coherence and plausibility of different theories of personal identity, helping philosophers refine their understanding of the concept.
+
+#### 4. The "No-Criteria" View of Personal Identity:
+   - The "no-criteria" view suggests that there are no objective criteria for personal identity; instead, personal identity is a pragmatic or conventional concept.
+   - This view challenges the idea that there is a single, determinate answer to questions of personal identity and highlights the fluidity and context-dependence of identity concepts.
+   - Regarding moral responsibility, the "no-criteria" view may suggest that notions of personal identity are constructed for practical purposes rather than being grounded in metaphysical reality. This could have implications for how we assign moral responsibility and accountability in cases involving personal identity changes or disruptions.
