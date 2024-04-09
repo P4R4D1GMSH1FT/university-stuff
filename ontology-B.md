@@ -77,7 +77,7 @@
 #### 7. The ontology of perdurantism and the existence of arbitrary compositions of spatiotemporally scattered objects.
 - Perdurantism allows for the existence of arbitrary compositions of spatiotemporally scattered objects, raising questions about the ontology of familiar objects versus arbitrary aggregates. The "no change" objection suggests that perdurantism implies a lack of genuine change, as objects are merely collections of temporal parts.
 
-##Peter van Inwagen ("The Doctrine of Arbitrary Undetached Parts")
+## Peter van Inwagen ("The Doctrine of Arbitrary Undetached Parts")
 #### 1. Doctrine of Arbitrary Undetached Parts (DAUP)
 The DAUP posits that for any object, there are parts of that object that are arbitrarily chosen and yet are not detached from the object. This means that an object could have parts that are not essential to it and can be arbitrarily added or subtracted without changing the identity of the object. This differs from the claim that there are undetached parts of objects, as the latter suggests that there are parts of objects that are necessarily attached to them and cannot be arbitrarily added or subtracted without altering the identity of the object.
 #### 2. Mereological Essentialism (ME) and Mereological Near-Essentialism (MNE)
