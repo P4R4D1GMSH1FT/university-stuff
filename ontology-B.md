@@ -355,7 +355,7 @@ The fission case poses a problem for the psychological theory of personal identi
 
 A four-dimensionalist, who adopts the view that objects persist through time as four-dimensional spacetime worms, can offer a solution to the problem posed by the fission case. According to four-dimensionalism, an individual's identity is not tied solely to psychological continuity but also to their entire spatiotemporal existence. In the fission case, Adam's spatiotemporal worm would extend across the entire duration of his life, encompassing both the pre-split and post-split phases. From a four-dimensionalist perspective, Adam, A, and B are all temporal parts of the same enduring object, each occupying a distinct segment along the spatiotemporal worm. Therefore, while A and B may develop into separate individuals with distinct experiences, they are still considered temporal parts of the same overarching spatiotemporal entity, which maintains identity through time despite branching into multiple streams of consciousness.
 
-##John Mackie's "Causes and Conditions"##
+## John Mackie's "Causes and Conditions" ##
 #### 1. Example of Fire Caused by Short Circuit: ####
 Mackie uses the example of a fire caused by a short circuit to illustrate the concept of an INUS condition. In this case, the short circuit is an insufficient but necessary part of an unnecessary but sufficient condition for the fire. It satisfies the conditions required for an INUS condition because it is an indispensable part of the overall causal chain leading to the fire.
 #### 2. Formal Analysis of INUS Condition: ####
