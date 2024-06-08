@@ -355,21 +355,21 @@ The fission case poses a problem for the psychological theory of personal identi
 
 A four-dimensionalist, who adopts the view that objects persist through time as four-dimensional spacetime worms, can offer a solution to the problem posed by the fission case. According to four-dimensionalism, an individual's identity is not tied solely to psychological continuity but also to their entire spatiotemporal existence. In the fission case, Adam's spatiotemporal worm would extend across the entire duration of his life, encompassing both the pre-split and post-split phases. From a four-dimensionalist perspective, Adam, A, and B are all temporal parts of the same enduring object, each occupying a distinct segment along the spatiotemporal worm. Therefore, while A and B may develop into separate individuals with distinct experiences, they are still considered temporal parts of the same overarching spatiotemporal entity, which maintains identity through time despite branching into multiple streams of consciousness.
 
-## John Mackie's "Causes and Conditions" ##
-#### 1. Example of Fire Caused by Short Circuit: ####
+## John Mackie's "Causes and Conditions"
+#### 1. Example of Fire Caused by Short Circuit:
 Mackie uses the example of a fire caused by a short circuit to illustrate the concept of an INUS condition. In this case, the short circuit is an insufficient but necessary part of an unnecessary but sufficient condition for the fire. It satisfies the conditions required for an INUS condition because it is an indispensable part of the overall causal chain leading to the fire.
-#### 2. Formal Analysis of INUS Condition: ####
+#### 2. Formal Analysis of INUS Condition:
 An INUS condition is neither necessary nor sufficient on its own for the occurrence of an event. It is necessary within the overall causal context but is not sufficient by itself to bring about the result. However, the rest of the condition that remains after removing the INUS condition may be sufficient to produce the result in combination with other factors.
-####3. Difference Between INUS Condition and At Least an INUS Condition:####
+#### 3. Difference Between INUS Condition and At Least an INUS Condition:
 An INUS condition refers to a part of the causal chain that is insufficient but necessary for the result. "At least an INUS condition" refers to a broader set of conditions that includes the specific INUS condition as well as other factors that may contribute to the result. A complete definition of a cause involves identifying all the INUS conditions and other contributing factors that collectively bring about the event.
-#### 4. Necessary Post Factum: #### According to Marc-Wogau and Mackie, a necessary post factum condition is one that is recognized as a cause only after the event has occurred. This highlights the retrospective nature of causal attribution, where certain conditions are identified as causes based on their role in bringing about the observed outcome.
-#### 5. Causal Field and Gappy Causal Statements: ####
+#### 4. Necessary Post Factum： According to Marc-Wogau and Mackie, a necessary post factum condition is one that is recognized as a cause only after the event has occurred. This highlights the retrospective nature of causal attribution, where certain conditions are identified as causes based on their role in bringing about the observed outcome.
+#### 5. Causal Field and Gappy Causal Statements:
 A causal field refers to the complex network of causal factors surrounding an event. Mackie modifies the account of singular causal statements to acknowledge the interconnectedness of causal factors and the gaps in our knowledge about causal relationships. Causal statements are 'gappy' in the sense that they may not fully capture all the contributing factors and complexities of the causal field.
-#### 6. Two Independent Sufficient Conditions: ####
+#### 6. Two Independent Sufficient Conditions:
 Mackie discusses cases where there are two independent sufficient conditions for an event, such as a heart attack and a stroke. The distinction lies in whether one condition prevents the other or if both conditions can act independently to produce the outcome. Understanding these distinctions helps clarify the causal relationships between different factors.
-#### 7. Necessity and Sufficiency in Singular Statements: ####
+#### 7. Necessity and Sufficiency in Singular Statements:
 Mackie explores the role of necessity and sufficiency in singular causal statements, considering counterfactual conditionals and factual conditionals as telescoped arguments. This involves analyzing hypothetical scenarios and factual situations to determine the necessity and sufficiency of various causal factors.
-#### 8. Direction of Causation: ####
+#### 8. Direction of Causation:
 Mackie discusses whether causal priority is identical to temporal priority and explores concepts of controllability and the direction of explanation in causal relationships. This involves considering whether causation always operates in a forward temporal direction and the role of explanatory factors in understanding causal relationships.
 ## David Lewis's "Causation"
 #### 1. Definition of Cause:
